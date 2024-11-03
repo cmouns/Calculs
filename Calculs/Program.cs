@@ -94,7 +94,8 @@ namespace Calculs
                         Console.WriteLine("Erreur de saisie");
                         break;
                 }
-            }
+                Console.ReadLine();
+            } 
         }
     }
 }
