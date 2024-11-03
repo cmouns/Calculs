@@ -95,7 +95,7 @@ namespace Calculs
                         break;
                 }
                 Console.ReadLine();
-            } 
+            }
         }
     }
 }
